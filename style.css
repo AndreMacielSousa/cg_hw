@@ -1,0 +1,13 @@
+body
+		{
+		text-align: center;
+		background-color:#FFFFCC;
+		font-family:"Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+		}
+		
+#desenho1
+	 {
+		width: 50%;
+		height: 50%;
+		display: inline-block;
+	  }
