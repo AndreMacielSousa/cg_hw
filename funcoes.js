@@ -1,6 +1,6 @@
 'use strict';
 
-/* global THREE 29/09/2019*/
+4/* global THREE 29/09/2019*/
 
 function main() {
   const canvas = document.querySelector('#desenho1');
